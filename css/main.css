@@ -1,0 +1,19 @@
+#console {
+  height: 500px;
+  max-height: 500px;
+  background: white;
+  resize: none;
+}
+
+#console.disabled {
+  background: grey;
+}
+
+.toggle-console {
+  text-align: right;
+  margin-top: 18px;
+}
+
+.toggle-console span {
+  font-size: 15px;
+}
